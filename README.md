@@ -16,7 +16,7 @@ This project demonstrates an end-to-end real-time data engineering pipeline for 
 
 ## 📌 Architecture
 
-![Architecture Diagram](./Architecture.png)  <!-- Replace with actual image path if hosted -->
+![Architecture Diagram](./Architecture.jpg)  <!-- Replace with actual image path if hosted -->
 
 ---
 
